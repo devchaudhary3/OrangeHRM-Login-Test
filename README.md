@@ -1,5 +1,4 @@
-# OrangeHRM-Login-Test
-Logs in to a website and verifies dashboard .It Uses Selenium to interact with browser and HTML elements
+
 # OrangeHRM Login Test Automation
 
 This project is a simple **functional UI test** for the OrangeHRM demo website using **Selenium WebDriver with Java and Maven**.
